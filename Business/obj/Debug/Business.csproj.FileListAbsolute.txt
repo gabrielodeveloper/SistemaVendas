@@ -1,0 +1,12 @@
+C:\Users\gabri\source\repos\SistemaVendas\Business\bin\Debug\Business.dll
+C:\Users\gabri\source\repos\SistemaVendas\Business\bin\Debug\Business.pdb
+C:\Users\gabri\source\repos\SistemaVendas\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\SistemaVendas\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\SistemaVendas\Business\obj\Debug\Business.dll
+C:\Users\gabri\source\repos\SistemaVendas\Business\obj\Debug\Business.pdb
+C:\Users\gabri\source\repos\SistemaVendas\Business\bin\Debug\DatabaseAccess.dll
+C:\Users\gabri\source\repos\SistemaVendas\Business\bin\Debug\TransferObjetc.dll
+C:\Users\gabri\source\repos\SistemaVendas\Business\bin\Debug\DatabaseAccess.pdb
+C:\Users\gabri\source\repos\SistemaVendas\Business\bin\Debug\DatabaseAccess.dll.config
+C:\Users\gabri\source\repos\SistemaVendas\Business\bin\Debug\TransferObjetc.pdb
+C:\Users\gabri\source\repos\SistemaVendas\Business\obj\Debug\Business.csproj.CopyComplete

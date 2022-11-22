@@ -1,0 +1,7 @@
+C:\Users\gabri\source\repos\SistemaVendas\DatabaseAccess\bin\Debug\DatabaseAccess.dll
+C:\Users\gabri\source\repos\SistemaVendas\DatabaseAccess\bin\Debug\DatabaseAccess.pdb
+C:\Users\gabri\source\repos\SistemaVendas\DatabaseAccess\obj\Debug\DatabaseAccess.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\SistemaVendas\DatabaseAccess\obj\Debug\DatabaseAccess.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\SistemaVendas\DatabaseAccess\obj\Debug\DatabaseAccess.dll
+C:\Users\gabri\source\repos\SistemaVendas\DatabaseAccess\obj\Debug\DatabaseAccess.pdb
+C:\Users\gabri\source\repos\SistemaVendas\DatabaseAccess\bin\Debug\DatabaseAccess.dll.config
